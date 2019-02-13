@@ -1,0 +1,9 @@
+section{position:relative;margin: 0 auto 0;padding: 0 2vw;padding-top: 7vw;min-height: 46vw;}
+article{float: left;width: 33.3%;padding: 0 2vw;display: table;margin-bottom: 5vw;}
+article img{width: 100%;}
+article small{margin-top: 2vw;display: block;margin-bottom: .8vw;}
+article h4{font-weight: 700;}
+.ofrecidos{padding: 5vw 10vw;width: 60%;margin: 5vw auto;background: #fff;border: solid .2vw #d9d9d9;}
+.ofrecidos p{color: #95979d;margin-bottom:2vw;text-align: justify;}
+.ofrecidos img{max-width: 100%}
+.ofrecidos h4{margin-top: 5vw;color: #7a7d85;}
